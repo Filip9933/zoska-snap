@@ -1,8 +1,16 @@
-import  Typography  from "@mui/material/Typography";
+// src/app/gdpr/page.tsx
 
 
-export default function GDPR() {
+import Typography from "@mui/material/Typography";
+import Container from "@mui/material/Container";
+
+export const metadata = { title: "Gdpr | ZoškaSnap" };
+
+export default function Gdpr() {
+
   return (
-    <Typography> Stranka na GDPR </Typography>
+    <Container>
+      <Typography> Gdpr </Typography>
+    </Container>
   );
 }
