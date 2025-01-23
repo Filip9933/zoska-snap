@@ -14,4 +14,3 @@ export default function AboutMe() {
     </Container>
   );
 } 
-debugger
