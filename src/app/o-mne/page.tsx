@@ -13,4 +13,5 @@ export default function AboutMe() {
       <Typography> O mne </Typography>
     </Container>
   );
-}
+} 
+debugger
